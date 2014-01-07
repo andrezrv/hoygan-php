@@ -1,3 +1,5 @@
+<?php
+
 function hoygan($str, $rnd = false){
     $texto = $str;
     $rnd = ($rnd !== false) ? true : false;
